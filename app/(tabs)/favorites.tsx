@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const NotFound= () => {
+const favourites = () => {
   return (
     <View>
-      <Text>+not-found</Text>
+      <Text>favourites</Text>
     </View>
   )
 }
 
-export default NotFound
+export default favourites
 
 const styles = StyleSheet.create({})
