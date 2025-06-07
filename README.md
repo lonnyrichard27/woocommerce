@@ -7,17 +7,7 @@ This is an [Expo](https://expo.dev) project bootstrapped with [`create-expo-app`
 - **Expo**: Framework for universal React applications
 - **React Native**: Core technology for building native mobile UIs
 - **TypeScript**: Main language for type-safe development
-- **JavaScript**: Used in some modules and dependencies
-- **React Navigation**: (if used) For routing and navigation
-- **Other dependencies**: See [package.json](./package.json) for details
-
-## Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (version 14 or newer recommended)
-- [npm](https://www.npmjs.com/) (comes with Node.js)
-- [Expo CLI](https://docs.expo.dev/workflow/expo-cli/) (optional, but recommended: `npm install -g expo-cli`)
+- **Zustand**: For state management
 
 ### Installation
 
@@ -25,3 +15,6 @@ This is an [Expo](https://expo.dev) project bootstrapped with [`create-expo-app`
    ```bash
    git clone https://github.com/lonnyrichard27/woocommerce.git
    cd woocommerce
+   npm install
+   npx expo start
+   
